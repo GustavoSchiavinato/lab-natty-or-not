@@ -1,26 +1,26 @@
-# Como seria os computadores quânticos residências
+# Como seria os computadores quânticos residênciais
 
 
 ## 📒 Descrição
-Descobrir como seria os computadores quânticos residências, usando as IAs Generativas.
+Descobrir como seria os computadores quânticos residênciais, usando as IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
 1. **AI Copilot - Microsoft** - https://copilot.microsoft.com/?FORM=undexpand&
-2. **AI Gamma APP - Criação de Slites** - https://gamma.app/
+2. **AI Gamma APP - Criação de Slides** - https://gamma.app/
 3. **AI Canva - Criação de Imagens** - https://www.canva.com/pt_br/
 
 ## 🧐 Processo de Criação
-Na AI Copilot da Microsoft, foi perguntado como seria os computadores quânticos residências.
+Na AI Copilot da Microsoft, foi perguntado como seria os computadores quânticos residênciais, apartir do conteúdo digitado na ferramenta.
 
-Na AI Gamma APP, foi informado para gerar slides sobre como seria os computadores quânticos residências, apartir do conteúdo digitado na ferramenta.
+Na AI Gamma APP, foi informado para gerar slides sobre como seria os computadores quânticos residênciais, apartir do conteúdo digitado na ferramenta.
 
-Na AI Cava, foi informado para gerar imagens sobre como seria os computadores quânticos residências, apartir do conteúdo digitado na ferramenta.
+Na AI Cava, foi informado para gerar imagens sobre como seria os computadores quânticos residênciais, apartir do conteúdo digitado na ferramenta.
 
 ## 🚀 Resultados
 
 ### Resultado da AI Copilot da Microsoft:
 
-Quando foi perguntado ao Copilot da Microsoft, ela retornou com esta resposta:
+Quando foi perguntado ao Copilot da Microsoft, sobre o assunto, ela retornou com esta seguinte resposta:
 
 "O futuro dos computadores quânticos em residências é promissor e repleto de possibilidades. Vamos explorar algumas perspectivas interessantes:
 
@@ -40,13 +40,17 @@ Tamanho: Atualmente, os computadores quânticos são grandes e ocupam muito espa
 5. **Energia:** Os computadores quânticos consomem uma quantidade significativa de energia. Portanto, um desafio para os computadores quânticos residenciais seria como fornecer a quantidade necessária de energia de uma maneira eficiente."
 
 ### Resultado da AI Gamma APP:
-Segue o link do slite gerado pela AI Gamma APP:
 
+Quando foi informado para AI Gamma APP, gerar slides sobre o assunto, ela retornou com os seguintes slides.
+
+Segue o link dos slides gerados pela AI Gamma APP:
 
 https://gamma.app/docs/O-que-sao-computadores-quanticos-qu99j6o5q0bn3y0
 
 
 ### Resultado da AI Canva:
+Quando foi informado para AI Canva, gerar as imagens sobre o assunto, ela retornou com as seguintes imagens geradas. 
+
 Segue as imagens geradas pela AI Canva:
 
 
